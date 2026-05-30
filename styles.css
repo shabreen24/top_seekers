@@ -63,12 +63,14 @@ header.active .navbar a {
 }
 .navbar{
     display: flex;
+    background-color:#568203;
+    padding:10px;
     
 }
 .navbar a{
     font-size: 1rem;
     padding: 10px 20px;
-    color: #000000;
+    color: white;
     font-weight:500;
     margin: 30px;
 }
